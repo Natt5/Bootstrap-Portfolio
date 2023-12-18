@@ -34,6 +34,18 @@ body {
 
 /* Projects section styling */
 
+.card-img-top {
+    height: 200px; /* Adjust as needed */
+    object-fit: cover; /* Ensures the image covers the area without stretching */
+}
+
+/* .card-image-overlay {
+    background-image: url(../images/banner-vintage.jpg); 
+    background-size: cover; 
+    opacity: 0.5; 
+  
+} */
+
 /* Style for project buttons */
 .card .btn-primary {
     background-color: rgba(0, 0, 0, 0.7); /* Default button background */
@@ -70,6 +82,23 @@ body {
 
 /* Contact Me styling */
 
+#contact {
+    padding: 60px; /* Adds space around the entire section */
+}
+
+#contact h2 {
+    margin-top: 40px; /* Adds space above the title */
+    margin-bottom: 40px; /* Adds space below the title */
+}
+address {
+    padding-left: 60px; /* Adjust as needed for right alignment */
+}
+
+.address.text-center {
+    text-align: center; /* Centers the address text */
+}
+
+
 address a {
     color: rgba(0, 0, 0, 0.7);
     text-decoration: none;
@@ -93,6 +122,9 @@ address a:hover {
 }
 
 /* footer styling */
+#footer .bi {
+    font-size: 1.5em; /* Adjust the size as needed */
+}
 .socials ul {
     list-style-type: none; /* Removes bullet points */
     padding: 0; /* Removes default padding */
@@ -109,6 +141,10 @@ address a:hover {
     color: rgb(255, 190, 152);
 }
 
+#footer {
+    padding: 30px 0; /* Adds vertical padding inside the footer */
+    margin-top: 30px; /* Adds space above the footer */
+}
 #footer h6, 
 #footer p {
   color: rgba(0, 0, 0, 0.5); /* Sets the color to semi-transparent black */
