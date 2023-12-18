@@ -32,6 +32,11 @@ body {
     margin-top: 30px;
 }
 
+#about-contact {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
 /* About me styling */
 .rounded-image {
     border-radius: 50%;
@@ -47,8 +52,6 @@ body {
     color: rgb(255, 190, 152);
     margin-right: 8px; /* Space between heart and text */
 }
-
-
 
 /* Contact Me styling */
 
@@ -74,14 +77,25 @@ address a:hover {
     color: rgba(0, 0, 0, 0.7);
 }
 
-
-/* Hover effect for hyperlinks in the footer */
-.footer .footer-link:hover {
+/* footer styling */
+.socials ul {
+    list-style-type: none; /* Removes bullet points */
+    padding: 0; /* Removes default padding */
+    display: flex; /* Align items in a line */
+    justify-content: center; /* Center align items */
+}
+.socials li {
+    margin-right: 15px; /* spacing between icons */
+}
+.socials a {
+    color: rgba(0, 0, 0, 0.5);
+}
+.socials a:hover {
     color: rgb(255, 190, 152);
-    text-decoration: underline;
 }
 
-/* Box shadow for buttons in the footer on hover doesnt work yet*/
-.footer .footer-button:hover {
-    box-shadow: 0 5px 15px rgba(255, 190, 152, 0.7);
+#footer h6, 
+#footer p {
+  color: rgba(0, 0, 0, 0.5); /* Sets the color to semi-transparent black */
 }
+
