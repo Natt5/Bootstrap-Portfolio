@@ -39,13 +39,6 @@ body {
     object-fit: cover; /* Ensures the image covers the area without stretching */
 }
 
-/* .card-image-overlay {
-    background-image: url(../images/banner-vintage.jpg); 
-    background-size: cover; 
-    opacity: 0.5; 
-  
-} */
-
 /* Style for project buttons */
 .card .btn-primary {
     background-color: rgba(0, 0, 0, 0.7); /* Default button background */
@@ -59,14 +52,15 @@ body {
     color: rgba(0, 0, 0, 0.7); /* Text color on hover */
 }
 
-#about-contact {
-    margin-top: 100px;
-    margin-bottom: 100px;
+/* About Me styling */
+
+#about {
+    margin: auto; /* Adds vertical margin for space outside the container */
+    padding: 20px; /* Adds padding inside the container for an airy feel */
 }
 
-/* About me styling */
-.rounded-image {
-    border-radius: 50%;
+#about .row {
+    margin-bottom: 20px; /* Adds space between rows */
 }
 
 .facts-custom-list {
@@ -74,11 +68,21 @@ body {
     padding-left: 0;
 }
 
-.facts-custom-list li:before {
-    content: "♥";
-    color: rgb(255, 190, 152);
-    margin-right: 8px; /* Space between heart and text */
+.facts-custom-list li .bi-chevron-compact-right {
+    color: rgb(255, 190, 152); /* Sets the icon color to peach */
+    margin-right: 8px; /* Adds space between icon and text */
 }
+.btn-primary {
+    background-color: rgba(0, 0, 0, 0.7); /* Default background */
+    color: rgb(255, 190, 152); /* Text color */
+    border: none; /* Optional: removes the border */
+}
+
+.btn-primary:hover {
+    background-color: rgb(255, 190, 152); /* Background color on hover */
+    color: rgba(0, 0, 0, 0.7); /* Text color on hover */
+}
+
 
 /* Contact Me styling */
 
@@ -90,6 +94,7 @@ body {
     margin-top: 40px; /* Adds space above the title */
     margin-bottom: 40px; /* Adds space below the title */
 }
+
 address {
     padding-left: 60px; /* Adjust as needed for right alignment */
 }
