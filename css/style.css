@@ -16,3 +16,15 @@
 .navbar-brand:hover {
     color: rgb(255, 190, 152);
 }
+/* hero banner */
+.jumbotron {
+    background-image: url(../images/banner-wall.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: rgba(0, 0, 0, 0.6) 
+}
+/* portrait  margin top */
+.jumbotron img {
+    margin-top: 30px;
+}
