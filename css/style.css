@@ -32,6 +32,21 @@ body {
     margin-top: 30px;
 }
 
+/* Projects section styling */
+
+/* Style for project buttons */
+.card .btn-primary {
+    background-color: rgba(0, 0, 0, 0.7); /* Default button background */
+    color: rgb(255, 190, 152); /* Text color */
+    border: none; /* Optional: removes the border */
+}
+
+  /* Style for buttons on hover */
+.card .btn-primary:hover {
+    background-color: rgb(255, 190, 152); /* Button background color on hover */
+    color: rgba(0, 0, 0, 0.7); /* Text color on hover */
+}
+
 #about-contact {
     margin-top: 100px;
     margin-bottom: 100px;
