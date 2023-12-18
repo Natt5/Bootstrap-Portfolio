@@ -28,3 +28,16 @@
 .jumbotron img {
     margin-top: 30px;
 }
+
+
+/* Hover effect for hyperlinks in the footer */
+.footer .footer-link:hover {
+    color: rgb(255, 190, 152);
+    text-decoration: underline;
+  }
+  
+  /* Box shadow for buttons in the footer on hover doesnt work yet*/
+  .footer .footer-button:hover {
+    box-shadow: 0 5px 15px rgba(255, 190, 152, 0.6);
+  }
+  
