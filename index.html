@@ -213,67 +213,81 @@
   <!-- More skills to add here -->
 </div>
 
-<!-- skill section -->
-<!-- <div class="container" id="skills">
-  <h2 class="text-center my-4">Skills</h2>
-  <div class="accordion" id="accordionSkills"> -->
-    <!-- Skill 1 -->
-    <!-- <div class="accordion-item">
-      <h2 class="accordion-header" id="headingOne">
-        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseHTML" aria-expanded="true" aria-controls="collapseHTML">
-          HTML
-        </button>
-      </h2>
-      <div id="collapseHTML" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionSkills">
-        <div class="accordion-body">
-          <strong>HTML:</strong> Brief description about my HTML skills.
-        </div>
-      </div>
-    </div> -->
-
-    <!-- Skill 2 -->
-    <!-- <div class="accordion-item">
-      <h2 class="accordion-header" id="headingTwo">
-        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseCSS" aria-expanded="false" aria-controls="collapseCSS">
-          CSS
-        </button>
-      </h2>
-      <div id="collapseCSS" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionSkills">
-        <div class="accordion-body">
-          <strong>CSS:</strong> Brief description about my CSS skills.
-        </div>
-      </div>
-    </div> -->
-
-    <!-- Skill 3 -->
-    <!-- <div class="accordion-item">
-      <h2 class="accordion-header" id="headingThree">
-        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseJavaScript" aria-expanded="false" aria-controls="collapseJavaScript">
-          JavaScript
-        </button>
-      </h2>
-      <div id="collapseJavaScript" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionSkills">
-        <div class="accordion-body">
-          <strong>JavaScript:</strong> Brief description about my JavaScript skills.
-        </div>
-      </div>
-    </div> -->
-
-    <!-- More skills to be added here -->
-
-  <!-- </div>
-</div> -->
-
 <div class="container" id="about-contact">
   <div class="row">
       <!-- About Me Section -->
       <div class="col-md-6">
           <h2>About Me</h2>
           <p>As a passionate Web Developer, specializing in creating dynamic and user-friendly websites. I have crafted numerous websites and applications that have significantly improved user experience and business functionality. My expertise lies in HTML, CSS, JavaScript, and various modern frameworks. I pride myself on staying up-to-date with the latest technological trends to provide cutting-edge solutions to clients.</p>
+
+          <!-- Additional About Me Info -->
+          <div class="row">
+
+
+            <div class="col-md-6">
+              <h4>Short Facts:</h4>
+              <ul class="facts-custom-list">
+                <li><strong>Birthday:</strong> December, Riga</li>
+                <li><strong>Based:</strong> London, UK</li>
+                <li><strong>Degree:</strong> Master of Science</li>
+                <li><strong>Passion:</strong> Aesthetic WebDev and Cats!</li>
+              </ul>
+              <p><strong>Contact me to discuss your project!</strong></p>
+            </div>
+<!-- Photo Placeholder -->
+            <div class="col-md-6">
+              <img src="./images/catportraitblckwhite.png" alt="Your Name" class="img-fluid rounded-image">
+            </div>  
+                              
+          </div>
       </div>
 
       <!-- Contact Section -->
       <div class="col-md-6">
+          <h2>Contact Me</h2><br>
+          
+          <!-- Address Information -->
+          <address>
+            <strong>Natalie Bo</strong><br>
+            1 King's Rd,<br>
+            London, SW3 4RY<br>
+            <a href="tel:+447112233445">+44 7112233445</a><br>
+            <a href="mailto:natalie.bo@challengegmail.com">natalie.bo@challengegmail.com</a>
+          </address><br>
+
+          <!-- Contact Form -->
+          <form>
+            <div class="mb-3">
+              <label for="name" class="form-label">Your Name</label>
+              <input type="text" class="form-control" id="name" placeholder="Name">
+            </div>
+            <div class="mb-3">
+              <label for="email" class="form-label">Email Address</label>
+              <input type="email" class="form-control" id="email" placeholder="Email">
+            </div>
+            <div class="mb-3">
+              <label for="message" class="form-label">Message</label>
+              <textarea class="form-control" id="message" rows="3"></textarea>
+            </div>
+            <div class="d-grid gap-2">
+              <button type="submit" class="btn btn-primary form-button">Send</button>
+            </div>
+          </form>
+      </div>
+  </div>
+</div>
+
+
+<!-- <div class="container" id="about-contact">
+  <div class="row"> -->
+      <!-- About Me Section -->
+      <!-- <div class="col-md-6">
+          <h2>About Me</h2>
+          <p>As a passionate Web Developer, specializing in creating dynamic and user-friendly websites. I have crafted numerous websites and applications that have significantly improved user experience and business functionality. My expertise lies in HTML, CSS, JavaScript, and various modern frameworks. I pride myself on staying up-to-date with the latest technological trends to provide cutting-edge solutions to clients.</p>
+      </div> -->
+
+      <!-- Contact Section -->
+      <!-- <div class="col-md-6">
           <h2>Contact</h2>
           <div>
             <h3><a href="tel:+447112233445" class="contact-link" target="_blank">+44 7112233445</a></h3>
@@ -283,7 +297,7 @@
         </div>
       </div>
   </div>
-</div>
+</div> -->
 
 
 <!-- <div class="new-grid-container" id="contact">
@@ -305,15 +319,41 @@
     <p>&copy; 2023 Natt5</p>
   </footer> -->
 
- 
-  <footer class="footer text-center">
-    <h5>Made with <img src="./images/peach fuzz heart.png" alt="Peach Fuzz Heart icon" style="height: 1em; vertical-align: middle;" /> by Natt5</h5>
-    <p>&copy; 2023 Natt5</p>
+  <div id="footer" class="text-center">
+    <div class="container">
+      <div class="socials contact text-center">
+        <ul class="usntyled">
+          <li>
+            <a href="#">
+              <i class="bi bi-github"></i>"
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              <i class="bi bi-linkedin"></i>"
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              <i class="bi-bi-twitter-x"></i>"
+            </a>
+          </li>
+        </ul>
+      </div>
+      <h5>Made with <img src="./images/peach fuzz heart.png" alt="Peach Fuzz Heart icon" style="height: 1em; vertical-align: middle;" /> by Natt5</h5>
+    <p>&copy; 2023 Natt5</p> 
+    </div>
+  </div>
+
+  <!-- <footer class="footer text-center"> -->
+
+    <!-- <h5>Made with <img src="./images/peach fuzz heart.png" alt="Peach Fuzz Heart icon" style="height: 1em; vertical-align: middle;" /> by Natt5</h5>
+    <p>&copy; 2023 Natt5</p> -->
     <!-- example hyperlink -->
-    <a href="#" class="footer-link">exmaple Link</a>
+    <!-- <a href="#" class="footer-link">exmaple Link</a> -->
     <!-- Social button? -->
-    <button class="btn btn-primary footer-button">example Button</button>
-  </footer>
+    <!-- <button class="btn btn-primary footer-button">example Button</button> -->
+  <!-- </footer> -->
   
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js" integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+" crossorigin="anonymous"></script>
