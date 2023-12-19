@@ -16,7 +16,7 @@ Easy Navigation: The portfolio may be easily explored by visitors due to the Boo
 
 Hero Section: Features a jumbotron with my photo prominently shown, along with a short intro.
 
-About Me Section: Provides an overview of my goals and professional path. For improved user experience and to maintain the page's clean, appealing look, it has been positioned apart from the contact me page.
+About Me Section: Provides an overview of my goals and professional path. For improved user experience and to maintain the page's clean, appealing look, it has been positioned apart from the Contact Section.
 
 Dynamic Work Display: My projects are presented in a tidy and structured manner mainly to the Bootstrap cards that are used to organise the work area in a grid arrangement. This section effectively summarises each project, links to the related GitHub repository and includes placeholder photos and eye-catching cover screenshots from previous projects of mine. Additionally, employed placeholders from Placehold.co with customised colours to match the visual branding to improve the aesthetic appeal and preserve consistency.
 
@@ -40,15 +40,17 @@ I expect a developer's online portfolio to be simple to navigate so that I can q
 
 ### Deployment and Repository Quality
 
+[![Screenshot of my previous custom CSS portfolio](./images/challenge2.png)](./images/challenge2.png)
+
 My portfolio, which is live on GitHub Pages, highlights how I've used my web development expertise in practical settings.
 
 [Screenshot of my current bootstrap-portfolio](./images/challenge3.png)
 
-Link to the deployed bootstrap-portfolio:
+Link to the deployed bootstrap-portfolio page:
 
 [Screenshot of my previous custom CSS portfolio](./images/challenge2.png)
 
-Link to the deployed previous custom CSS portfolio:
+[Link to the deployed previous custom CSS portfolio page](https://natt5.github.io/challenge2portfolio/)
 
 My GitHub repository has an elevated degree of organisation, indicating that I follow recommended guidelines for both coding and documentation. A well-written README file and descriptive commit messages offer clear insights into the portfolio's functionality and development process.
 
@@ -79,4 +81,13 @@ Special thanks to the photographer who provided images:
 ## Licence
 
 Please refer to the LICENSE in the repo.
+
+## Badges
+
+[Made with Visual Studio Code](https://img.shields.io/badge/Made%20with-Visual%20Studio%20Code-1f425f.svg)
+
+[![Made with Visual Studio Code](https://img.shields.io/badge/Made%20with-Visual%20Studio%20Code-1f425f.svg)](https://code.visualstudio.com/)
+
+
+
 
