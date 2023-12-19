@@ -18,7 +18,7 @@ Hero Section: Features a jumbotron with my photo prominently shown, along with a
 
 About Me Section: Provides an overview of my goals and professional path. For improved user experience and to maintain the page's clean, appealing look, it has been positioned apart from the contact me page.
 
-Dynamic Work Display: My projects are presented in a tidy and structured manner mainly to the Bootstrap cards that are used to organise the work area in a grid arrangement. This section effectively summarises each project, links to the related GitHub repository and includes placeholder photos and eye-catching cover screenshots from previous projects of mine.
+Dynamic Work Display: My projects are presented in a tidy and structured manner mainly to the Bootstrap cards that are used to organise the work area in a grid arrangement. This section effectively summarises each project, links to the related GitHub repository and includes placeholder photos and eye-catching cover screenshots from previous projects of mine. Additionally, employed placeholders from Placehold.co with customised colours to match the visual branding to improve the aesthetic appeal and preserve consistency.
 
 Skills Overview: Provides viewers with an overview of the technical skills I'm learning during my bootcamp experience.
 
@@ -60,13 +60,13 @@ Comprehensive tutorial on Bootstrap CSS Framework for beginners available on [Yo
 
 Guidance on crafting professional READMEs from the Coding Boot Camp. [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide).
 
+Placeholder images via [Placehold.co](https://placehold.co/).
+
 Tim Berners-Lee's vision for the web: "The Web does not just connect machines, it connects people." — [Tim Berners-Lee, 2008, The World Wide Web Foundation](https://webfoundation.org/about/community/knight-2008-tbl-speech/).
 
 ### Image Credits
 
-Special thanks to the photographers who provided images:
-
-"Light Bulb on White Panel" by [Andreea Ch](https://www.pexels.com/photo/light-bulb-on-white-panel-1166643/) from Pexels.
+Special thanks to the photographer who provided images:
 
 "White Brick Wall" by [Joe Woods](https://unsplash.com/photos/white-brick-wall-4Zaq5xY5M_c) from Unsplash.
 
