@@ -158,15 +158,22 @@ address a:hover {
 color: rgba(0, 0, 0, 0.5);
 }
 
+/* Back to top button styling */
 .back-to-top {
     position: fixed;
-    bottom: 20px; /* Distance from bottom */
-    right: 20px; /* Distance from right */
-    background-color: #FFBE98; /* Peach background color */
-    color: rgba(0, 0, 0, 0.7); /* Dark gray text color */
+    bottom: 20px;
+    right: 20px;
+    background-color: #FFBE98;
+    color: rgba(0, 0, 0, 0.7);
     padding: 10px;
     border-radius: 5px;
-    text-decoration: none; /* Removes underline from text */
+    text-decoration: none;
 }
+
+.back-to-top:hover {
+    background-color: #EAA678;
+    color: rgba(0, 0, 0, 0.9);
+}
+
 
 

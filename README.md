@@ -46,7 +46,7 @@ Please see a [Link to the deployed bootstrap-portfolio page](https://natt5.githu
 
 Please see a screenshot of my current bootstrap-portfolio project:
 
-[![Screenshot of my current bootstrap-portfolio](./images/challenge3.png)](./images/challenge3.png)
+[![Screenshot of my current bootstrap-portfolio](./images/chalenge3.png)](./images/chalenge3.png)
 
 Please see a [Link to the deployed previous custom CSS portfolio page](https://natt5.github.io/challenge2portfolio/)
 
