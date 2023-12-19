@@ -103,7 +103,6 @@ address {
     text-align: center; /* Centers the address text */
 }
 
-
 address a {
     color: rgba(0, 0, 0, 0.7);
     text-decoration: none;

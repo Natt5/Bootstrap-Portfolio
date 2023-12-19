@@ -48,23 +48,23 @@ Link to the deployed portfolio:
 
 My GitHub repository has an elevated degree of organisation, indicating that I follow recommended guidelines for both coding and documentation. A well-written README file and descriptive commit messages offer clear insights into the portfolio's functionality and development process.
 
-[Link to the bootstrap-portfolio project repo on Github](https://github.com/Natt5/Bootstrap-Portfolio)
+[Link to the bootstrap-portfolio project repo on GitHub](https://github.com/Natt5/Bootstrap-Portfolio)
 
 ## Credits
 
 This project was inspired and informed by several key resources:
 
-Tim Berners-Lee's vision for the web: "The Web does not just connect machines, it connects people." — [Tim Berners-Lee, 2008, The World Wide Web Foundation](https://webfoundation.org/about/community/knight-2008-tbl-speech/).
-
 Bootstrap documentation and resources provided by the Bootstrap Team (2023). [Bootstrap Documentation](https://getbootstrap.com/docs/5.3/getting-started/introduction/).
-
-Guidance on crafting professional READMEs from the Coding Boot Camp. [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide).
 
 Comprehensive tutorial on Bootstrap CSS Framework for beginners available on [YouTube](https://www.youtube.com/watch?v=-qfEOE4vtxE) - "Bootstrap CSS Framework - Full Course for Beginners" (n.d.).
 
+Guidance on crafting professional READMEs from the Coding Boot Camp. [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide).
+
+Tim Berners-Lee's vision for the web: "The Web does not just connect machines, it connects people." — [Tim Berners-Lee, 2008, The World Wide Web Foundation](https://webfoundation.org/about/community/knight-2008-tbl-speech/).
+
 ### Image Credits
 
-Special thanks to the photographers who provided these images via Pexels:
+Special thanks to the photographers who provided images:
 
 "Light Bulb on White Panel" by [Andreea Ch](https://www.pexels.com/photo/light-bulb-on-white-panel-1166643/) from Pexels.
 
