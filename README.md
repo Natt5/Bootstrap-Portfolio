@@ -42,7 +42,7 @@ I expect a developer's online portfolio to be simple to navigate so that I can q
 
 My portfolio, which is live on GitHub Pages, highlights how I've used my web development expertise in practical settings.
 
-Please see a [Link to the deployed bootstrap-portfolio page]()
+Please see a [Link to the deployed bootstrap-portfolio page](https://natt5.github.io/Bootstrap-Portfolio/)
 
 Please see a screenshot of my current bootstrap-portfolio project:
 
