@@ -38,27 +38,29 @@ I expect a developer's online portfolio to be simple to navigate so that I can q
 
 ## Usage
 
-### Deployment and Repository Quality
+### Deployment
 
 My portfolio, which is live on GitHub Pages, highlights how I've used my web development expertise in practical settings.
 
-Screenshot of my current bootstrap-portfolio project:
+Please see a [Link to the deployed bootstrap-portfolio page]()
+
+Please see a screenshot of my current bootstrap-portfolio project:
 
 [![Screenshot of my current bootstrap-portfolio](./images/challenge3.png)](./images/challenge3.png)
 
-Link to the deployed bootstrap-portfolio page:
+Please see a [Link to the deployed previous custom CSS portfolio page](https://natt5.github.io/challenge2portfolio/)
 
-Screenshot of my previous custom CSS portfolio:
+Please see a screenshot of my previous custom CSS portfolio:
 
 [![Screenshot of my previous custom CSS portfolio](./images/challenge2.png)](./images/challenge2.png)
 
-[Link to the deployed previous custom CSS portfolio page](https://natt5.github.io/challenge2portfolio/)
+### GitHub Repository
 
 My GitHub repository has an elevated degree of organisation, indicating that I follow recommended guidelines for both coding and documentation. A well-written README file and descriptive commit messages offer clear insights into the portfolio's functionality and development process.
 
-[Link to the bootstrap-portfolio project repo on GitHub](https://github.com/Natt5/Bootstrap-Portfolio)
+Please see a [Link to the bootstrap-portfolio project repo on GitHub](https://github.com/Natt5/Bootstrap-Portfolio)
 
-[Link to the previous custom CSS portfolio project repo on GitHub](https://github.com/Natt5/challenge2portfolio)
+Please see a [Link to the previous custom CSS portfolio project repo on GitHub](https://github.com/Natt5/challenge2portfolio)
 
 ## Credits
 
