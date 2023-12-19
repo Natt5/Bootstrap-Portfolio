@@ -158,3 +158,15 @@ address a:hover {
 color: rgba(0, 0, 0, 0.5);
 }
 
+.back-to-top {
+    position: fixed;
+    bottom: 20px; /* Distance from bottom */
+    right: 20px; /* Distance from right */
+    background-color: #FFBE98; /* Peach background color */
+    color: rgba(0, 0, 0, 0.7); /* Dark gray text color */
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none; /* Removes underline from text */
+}
+
+
