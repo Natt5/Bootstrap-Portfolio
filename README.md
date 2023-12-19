@@ -1,4 +1,4 @@
-# Chalenge 3 Bootstrap-Portfolio
+# Challenge 3 Bootstrap-Portfolio
 
 ## Description
 
