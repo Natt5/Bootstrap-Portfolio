@@ -42,13 +42,19 @@ I expect a developer's online portfolio to be simple to navigate so that I can q
 
 My portfolio, which is live on GitHub Pages, highlights how I've used my web development expertise in practical settings.
 
-Screenshot of the current portfolio project:
+[Screenshot of my current bootstrap-portfolio](./images/challenge3.png)
 
-Link to the deployed portfolio:
+Link to the deployed bootstrap-portfolio:
+
+[Screenshot of my previous custom CSS portfolio](./images/challenge2.png)
+
+Link to the deployed previous custom CSS portfolio:
 
 My GitHub repository has an elevated degree of organisation, indicating that I follow recommended guidelines for both coding and documentation. A well-written README file and descriptive commit messages offer clear insights into the portfolio's functionality and development process.
 
 [Link to the bootstrap-portfolio project repo on GitHub](https://github.com/Natt5/Bootstrap-Portfolio)
+
+[Link to the previous custom CSS portfolio project repo on GitHub](https://github.com/Natt5/challenge2portfolio)
 
 ## Credits
 

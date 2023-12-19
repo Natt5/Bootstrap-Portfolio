@@ -95,6 +95,11 @@ body {
     margin-bottom: 40px; /* Adds space below the title */
 }
 
+.inner-content {
+    text-align: left;
+    display: inline-block;
+}
+
 address {
     padding-left: 60px; /* Adjust as needed for right alignment */
 }
