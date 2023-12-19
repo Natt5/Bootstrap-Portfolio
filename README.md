@@ -40,15 +40,17 @@ I expect a developer's online portfolio to be simple to navigate so that I can q
 
 ### Deployment and Repository Quality
 
-[![Screenshot of my previous custom CSS portfolio](./images/challenge2.png)](./images/challenge2.png)
-
 My portfolio, which is live on GitHub Pages, highlights how I've used my web development expertise in practical settings.
 
-[Screenshot of my current bootstrap-portfolio](./images/challenge3.png)
+Screenshot of my current bootstrap-portfolio project:
+
+[![Screenshot of my current bootstrap-portfolio](./images/challenge3.png)](./images/challenge3.png)
 
 Link to the deployed bootstrap-portfolio page:
 
-[Screenshot of my previous custom CSS portfolio](./images/challenge2.png)
+Screenshot of my previous custom CSS portfolio:
+
+[![Screenshot of my previous custom CSS portfolio](./images/challenge2.png)](./images/challenge2.png)
 
 [Link to the deployed previous custom CSS portfolio page](https://natt5.github.io/challenge2portfolio/)
 
@@ -83,8 +85,6 @@ Special thanks to the photographer who provided images:
 Please refer to the LICENSE in the repo.
 
 ## Badges
-
-[Made with Visual Studio Code](https://img.shields.io/badge/Made%20with-Visual%20Studio%20Code-1f425f.svg)
 
 [![Made with Visual Studio Code](https://img.shields.io/badge/Made%20with-Visual%20Studio%20Code-1f425f.svg)](https://code.visualstudio.com/)
 
