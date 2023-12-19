@@ -4,7 +4,7 @@
 
 This redesigned portfolio, which now makes better use of the Bootstrap CSS Framework, showcases my web development journey and skills. It is a dynamic showcase of my projects and accomplishments, demonstrating both technical expertise and design insight. Designed to attract the interest of prospective employers, this portfolio showcases my progress in contemporary web development techniques.
 
-## Motivation
+### Motivation
 
 The main motivation behind creating this portfolio is to present my expanding web development abilities in an approachable and polished manner. My goal with using Bootstrap has been to make a platform that showcases my expertise in an entertaining and responsive way.
 
